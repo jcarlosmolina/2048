@@ -1014,3 +1014,27 @@ a.retry-button {
   margin-left: 10px;
   float: center;
 }
+
+/* jcarlosmolina's modifications */
+div.pre-game {
+  border: solid 1px;
+  border-radius: 6px;
+  padding: 0 10px 10px 10px;
+  margin-top: 5px;
+}
+
+p.learn {
+  margin-top: 10px;
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  font-size: 80%;
+  border: 1px solid;
+  border-radius: 6px;
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
